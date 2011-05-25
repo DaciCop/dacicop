@@ -1,0 +1,44 @@
+7zFM.exe;C:\Program Files\7-Zip\7zFM.exe
+AcroRd32.exe;C:\Program Files\Adobe\Acrobat 7.0\Reader\AcroRd32.exe
+apache.exe;D:\xampp\apache\bin\apache.exe
+calc.exe;C:\WINDOWS\system32\calc.exe
+charmap.exe;C:\WINDOWS\system32\charmap.exe
+cmd.exe;C:\WINDOWS\system32\cmd.exe
+DevCpp.exe;D:\Dev-C++\DevCpp.exe
+EXCEL.EXE;C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE
+Explorer.EXE;C:\WINDOWS\Explorer.EXE
+firefox.exe;C:\Program Files\Mozilla Firefox\firefox.exe
+helpctr.exe;C:\WINDOWS\pchealth\helpctr\binaries\helpctr.exe
+HelpSvc.exe;C:\WINDOWS\PCHealth\HelpCtr\Binaries\HelpSvc.exe
+hypertrm.exe;C:\Program Files\Windows NT\hypertrm.exe
+iexplore.exe;C:\Program Files\Internet Explorer\iexplore.exe
+java.exe;C:\WINDOWS\system32\java.exe
+lsass.exe;C:\WINDOWS\system32\lsass.exe
+MapThis.exe;C:\Program Files\MapThis\MapThis.exe
+mmc.exe;C:\WINDOWS\system32\mmc.exe
+MSACCESS.EXE;C:\Program Files\Microsoft Office\OFFICE11\MSACCESS.EXE
+mspaint.exe;C:\WINDOWS\system32\mspaint.exe
+mstsc.exe;C:\WINDOWS\system32\mstsc.exe
+mysqld-nt.exe;D:\xampp\mysql\bin\mysqld-nt.exe
+notepad.exe;C:\WINDOWS\system32\notepad.exe
+notepad++.exe;C:\Program Files\Notepad++\notepad++.exe
+ntvdm.exe;C:\WINDOWS\system32\ntvdm.exe
+POWERPNT.EXE;C:\Program Files\Microsoft Office\OFFICE11\POWERPNT.EXE
+putty.exe;D:\meu\Kit\WinKit\putty.exe
+pv.exe;C:\sys\pv.exe
+rundll32.exe;C:\WINDOWS\system32\rundll32.exe
+services.exe;C:\WINDOWS\system32\services.exe
+setup_wm.exe;C:\Program Files\Windows Media Player\setup_wm.exe
+smss.exe;C:\WINDOWS\System32\smss.exe
+sndrec32.exe;C:\WINDOWS\system32\sndrec32.exe
+sndvol32.exe;C:\WINDOWS\system32\sndvol32.exe
+spoolsv.exe;C:\WINDOWS\system32\spoolsv.exe
+sstext3d.scr;c:\windows\system32\sstext3d.scr
+svchost.exe;C:\WINDOWS\system32\svchost.exe
+userinit.exe;c:\\windows\\system32\\userinit.exe
+wab.exe;C:\Program Files\Outlook Express\wab.exe
+winlogon.exe;C:\WINDOWS\system32\winlogon.exe
+WinVNC4.exe;C:\Program Files\RealVNC\VNC4\WinVNC4.exe
+WINWORD.EXE;C:\Program Files\Microsoft Office\OFFICE11\WINWORD.EXE
+wordpad.exe;C:\Program Files\Windows NT\Accessories\wordpad.exe
+xampp-control.exe;D:\xampp\xampp-control.exe
